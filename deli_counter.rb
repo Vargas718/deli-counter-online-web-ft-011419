@@ -20,6 +20,7 @@ def take_a_number(katz_deli, names)
   
   katz_deli << #{"names"} do
   
+  
   puts "Welcome, #{"cust"}. You are number 1 in line."
 end
 
