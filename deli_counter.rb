@@ -18,9 +18,7 @@ end
 end
 def take_a_number(katz_deli, names)
   
-  katz_deli.push(#{names})
   
-  puts "Welcome, #{"names"}. You are number #{counter} in line."
 end
 
   
