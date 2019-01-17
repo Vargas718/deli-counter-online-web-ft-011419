@@ -20,8 +20,7 @@ def take_a_number(katz_deli, names)
   
   katz_deli.push(#{"names"})
   
-  
-  puts "Welcome, #{"cust"}. You are number 1 in line."
+  puts "Welcome, #{"names"}. You are number #{counter} in line."
 end
 
   
